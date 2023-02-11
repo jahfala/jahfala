@@ -23,13 +23,4 @@
 
 - ⚡ Fun fact **teamwork ✌️**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/techmakers96" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="techmakers96" height="30" width="40" /></a>
-<a href="https://twitter.com/tech_makers1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tech_makers1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tech-makers-34a471173" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tech-makers-34a471173" height="30" width="40" /></a>
-<a href="https://fb.com/techmakers.co" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="techmakers.co" height="30" width="40" /></a>
-<a href="https://instagram.com/tech_makers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tech_makers" height="30" width="40" /></a>
-<a href="https://www.behance.net/techmakers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="techmakers" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCHtxy6UQPWdBuWZ7h9Mcc4A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/uchtxy6uqpwdbuwz7h9mcc4a" height="30" width="40" /></a>
-</p>
+
